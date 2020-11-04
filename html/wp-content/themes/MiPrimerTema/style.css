@@ -1,0 +1,39 @@
+/*
+Theme Name: Mi primer tema
+Theme URI: http://wordpress.org/themes/twentythirteen
+Author: ndiazdossantos
+Author URI: http://noesencillito.com/
+Description:Tema creado para la clase de SXE de 2º DAM.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: ndiazdossantos
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body{
+    background-color: #7adcb4;
+}
+
+#header {
+    background: #90a090;
+    border-bottom: double 3px #aba;
+    border-left: solid 1px #9a9;
+    border-right: solid 1px #565;
+    border-top: solid 1px #9a9;
+    font: italic normal 230% 'Times New Roman', Times, serif;
+    letter-spacing: 0.2em;
+    margin: 0;
+    padding: 15px 10px 15px 60px;
+}
+
+#header {
+    background: url("http://localhost:8000/leader.jpg")
+    no-repeat bottom center; }
+#headerimg  {
+    margin: 7px 9px 0;
+    height: 192px;
+    width: 740px; }
