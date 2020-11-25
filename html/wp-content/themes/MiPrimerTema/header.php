@@ -7,7 +7,7 @@
 <div class="description">
 	<?php bloginfo('description'); ?>
 	<br>
-    <img src="<?php echo get_stylesheet_directory_uri();?>/images/header.jpeg" >
+    <img src="<?php echo get_stylesheet_directory_uri();?>/images/header.png" >
 </div>
 </div>
 </div>
